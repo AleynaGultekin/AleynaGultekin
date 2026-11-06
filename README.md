@@ -1,6 +1,6 @@
 # Hi there, I'm Aleyna Gültekin! 👋
 
-Senior Computer Engineering student at Manisa Celal Bayar University with a focus on **Natural Language Processing (NLP)**, **Knowledge Engineering**, **Databases**, and **Software Architecture**.
+Senior Computer Engineering student at Manisa Celal Bayar University with a focus on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **RAG Architectures (RAG)**, **Artificial Intelligence (AI)**, **Databases**, and **Software Architecture**.
 
 ---
 
