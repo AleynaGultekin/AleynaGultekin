@@ -13,6 +13,7 @@ Senior Computer Engineering student at Manisa Celal Bayar University with a focu
 ---
 
 ### 🚀 Featured Projects
+- ✈️ **TUSAŞ LIFT UP - AI Employee Experience & Analytics Platform:** AI-driven analytics application featuring NLP sentiment analysis pipelines, RAG architectures, and statistical CUSUM algorithms for real-time anomaly detection and decision support.
 - 🍲 **[Smart Recipe Ontology](https://github.com/AleynaGultekin/ontology-design-project):** Recipe Knowledge Graph aligned with Schema.org & PROV, validated with SHACL shapes and an ontology-guided LLM pipeline.
 - 🍿 **[Netflix Database & Web App](https://github.com/AleynaGultekin/netflix-database-webapp):** Full-stack web application featuring a 6-table relational PostgreSQL database schema, complex analytical SQL queries, and ASP.NET Core MVC interface.
 - ⛴️ **[Ferry Transport Simulation](https://github.com/AleynaGultekin/ferry-transport-simulation):** Concurrent Java simulation coordinating 30 vehicle threads using fair locks, semaphores, and condition variables with a live Swing GUI.
